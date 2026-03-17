@@ -36,8 +36,8 @@ PocketPet, React Native ve Expo kullanılarak geliştirilmiş, Tamagotchi tarzı
 
 ## Ekran Görüntüleri ve Bağlantılar
 
-- **APK İndirme Linki:** *(Buraya APK eklenecek)*
-- **YouTube Tanıtım Videosu:** *(Buraya video linki eklenecek)*
+- **APK İndirme Linki:** https://drive.google.com/file/d/1Snf_9LdLeZoBEmQWXwZRNoP9x4bldCRH/view?usp=sharing
+- **YouTube Tanıtım Videosu:** https://youtube.com/shorts/dmqQCt_ybXg?feature=share
 
 ---
 *Clean Code prensiplerine uygun olarak TypeScript ve modern React konseptleri ile geliştirilmiştir.*
